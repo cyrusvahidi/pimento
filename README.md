@@ -14,3 +14,6 @@ Euclidean Gate Sequencer for Bela Pepper Eurorack Module C++
 - [ ] An extra gate output that sequentially outputs each sequences
 - [ ] Tap tempo
 - [ ] Envelope two audio input channels according to the euclidean sequence and send to audio outs
+- [ ] Clock Division
+- [ ] Env & Seq Sample - choose with button
+- [ ] Trigger fills with digital input gates
