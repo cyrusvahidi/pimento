@@ -9,8 +9,8 @@ Euclidean Gate Sequencer for Bela Pepper Eurorack Module C++
 ## Checklist
 - [x] single euclidean gate output (<= 8 steps)
 - [x] master clock
-- [] rotate sequences
-- [] Two Euclidean sequence output gates 
-- [] An extra gate output that sequentially outputs each sequences
-- [] Tap tempo
-- [] Envelope two audio input channels according to the euclidean sequence and send to audio outs
+- [ ] rotate sequences
+- [ ] Two Euclidean sequence output gates 
+- [ ] An extra gate output that sequentially outputs each sequences
+- [ ] Tap tempo
+- [ ] Envelope two audio input channels according to the euclidean sequence and send to audio outs
