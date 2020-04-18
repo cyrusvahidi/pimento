@@ -1,4 +1,4 @@
-# Pimiento
+# Pimento
 Euclidean Gate Sequencer for Bela Pepper Eurorack Module C++
 
 ## Note
