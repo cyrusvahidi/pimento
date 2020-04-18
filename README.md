@@ -2,6 +2,7 @@
 Euclidean Gate Sequencer for Bela Pepper Eurorack Module C++
 
 [Bela Platform](https://bela.io/)
+
 [Bela Pepper Guide](https://github.com/BelaPlatform/bela-pepper)
 
 ## Note
