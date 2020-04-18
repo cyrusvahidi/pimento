@@ -1,6 +1,9 @@
 # Pimento
 Euclidean Gate Sequencer for Bela Pepper Eurorack Module C++
 
+[Bela Platform](https://bela.io/)
+[Bela Pepper Guide](https://github.com/BelaPlatform/bela-pepper)
+
 ## Note
 - If you are reading this then you are here too soon
 - WIP - MVP coming soon
