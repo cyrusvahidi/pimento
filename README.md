@@ -8,7 +8,7 @@ Euclidean Gate Sequencer for Bela Pepper Eurorack Module C++
 ## Note
 - If you are reading this then you are here too soon
 - WIP - MVP coming soon
-- The euclidean class is quite intelligeble and ready to use
+- The euclidean rhythm class is quite intelligible  
 
 ## Checklist
 - [x] single euclidean gate output (<= 8 steps)
