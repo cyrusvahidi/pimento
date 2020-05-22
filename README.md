@@ -5,6 +5,8 @@ Euclidean Gate Sequencer for Bela Pepper Eurorack Module C++
 
 [Bela Pepper Guide](https://github.com/BelaPlatform/bela-pepper)
 
+![Functionality](bela_eucli.png)
+
 ## Note
 - If you are reading this then you are here too soon
 - WIP - MVP coming soon
